@@ -15,8 +15,7 @@ Screenshot of Output
 
 
 Commands Used
-
+pip install cryptography
 
 Screenshot of Output
-
 <img width="1468" height="193" alt="image" src="https://github.com/user-attachments/assets/12b7e21e-0bda-4b6b-a2a6-e66dd0351807" />
